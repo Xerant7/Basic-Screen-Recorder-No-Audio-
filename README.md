@@ -6,8 +6,7 @@ Click "Start Recording" to begin capturing the screen.
 Click "Stop Recording" to save the video and end recording
 
 
-Code Structure and Functionality
-Imports
+**Code Structure and Functionality**
 
 Imports necessary libraries:
 PyQt5 for GUI components.
