@@ -1,4 +1,5 @@
-Usage
+**Usage**
+
 Launch the application.
 Choose a resolution and save location [Imp.] for the recording.
 Click "Start Recording" to begin capturing the screen.
