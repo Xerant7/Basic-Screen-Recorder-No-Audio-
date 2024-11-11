@@ -1,3 +1,10 @@
+Usage
+Launch the application.
+Choose a resolution and save location [Imp.] for the recording.
+Click "Start Recording" to begin capturing the screen.
+Click "Stop Recording" to save the video and end recording
+
+
 Code Structure and Functionality
 Imports
 
